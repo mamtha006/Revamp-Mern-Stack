@@ -1,0 +1,8 @@
+.bg-img{
+
+    background-image: url('https://img.freepik.com/free-photo/tropical-beach-sea_74190-189.jpg');
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 400px;
+    background-size: cover;
+} 
